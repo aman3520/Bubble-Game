@@ -1,0 +1,21 @@
+# 🎯 Bubble Game
+
+A fast-paced number-matching game built with HTML, CSS, and JavaScript! Click the bubbles that match the target number before the timer runs out.
+
+## 🔹 How to Play
+- A random number appears at the top.
+- Click all bubbles with the same number to score points.
+- The game ends when the timer hits zero—try to beat your high score!
+
+## 🎮 Live Demo
+[Play now](https://aman3520.github.io/Bubble-Game/)
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3 (fully responsive)
+- Vanilla JavaScript
+
+## 📱 Responsive
+Fully playable on desktop, tablet, and mobile!
+
+---
